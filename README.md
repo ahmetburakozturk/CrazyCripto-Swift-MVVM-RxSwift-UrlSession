@@ -8,9 +8,13 @@ I hope you enjoy that :)
 
 <h3> Here's some screenshots from app in different devices </h3> 
 <p align="center">
-<img src="https://github.com/ahmetburakozturk/iPhone-Calculator-Programmatic-UI/assets/79537376/2cb8c93b-d7f8-485d-b01a-ffc0137c56bf" alt="ahmetburakozturk" width="200" height="415"/> 
-<img src="https://github.com/ahmetburakozturk/iPhone-Calculator-Programmatic-UI/assets/79537376/fa85cf73-78da-49a2-9942-f5cf11407123" alt="ahmetburakozturk" width="200" height="415"/>
-<img src="https://github.com/ahmetburakozturk/iPhone-Calculator-Programmatic-UI/assets/79537376/a3dc0841-b1d7-4e81-bba1-fcd6d2a0af7f" alt="ahmetburakozturk" width="200" height="415"/>
+ <h2>Launchscreen Design</h2>
+<img src="https://github.com/ahmetburakozturk/CrazyCripto-Swift-MVVM-RxSwift-UrlSession/assets/79537376/08f4dcbd-e6ce-45e7-a604-4ceab603c612" alt="ahmetburakozturk" width="200" height="415"/> 
+</p>
+
+<p align="center">
+ <h2>Application</h2>
+<img src="https://github.com/ahmetburakozturk/CrazyCripto-Swift-MVVM-RxSwift-UrlSession/assets/79537376/fd6559c9-7090-42fa-96ea-8704bdb7746e" alt="ahmetburakozturk" width="200" height="415"/>
 </p>
 
  <p>If you want the give me a feedback: <a href="mailto:ahmetburakozturk28@gmail.com">ahmetburakozturk28@gmail.com</a></p>
